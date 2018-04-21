@@ -1,0 +1,1 @@
+## I still wonder, how does git work with two or more people working on Git concurrently 
